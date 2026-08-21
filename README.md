@@ -12,9 +12,9 @@
 git clone https://github.com/elder-plinius/G0DM0D3.git
 cd G0DM0D3
 
-# Directly in browser
+- Directly in browser
 open index.html
-# Serve Locally
+- Serve Locally
 python3 -m http.server 8000]
 
 
