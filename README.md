@@ -72,3 +72,7 @@ cd horus
 
 pip install -r requirements.txt
 py horus.py
+
+
+
+## ADDING MORE AS THE DAYS GO ON..
