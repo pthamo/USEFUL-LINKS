@@ -12,20 +12,20 @@ A curated collection of useful websites, repositories, and tools.
 
 ## 📦 Repositories
 
-- **[G0DM0D3](https://github.com/elder-plinius/G0DM0D3)**
-- **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)**
-- **[H4cker](https://github.com/The-Art-of-Hacking/h4cker)**
-- **[Tookie OSINT](https://github.com/Alfredredbird/tookie-osint)**
-- **[BBOT](https://github.com/blacklanternsecurity/bbot)**
-- **[MailAccess](https://github.com/KatrielMoses/MailAccess)**
-- **[TorBot](https://github.com/DedSecInside/TorBot)**
-- **[Horus](https://github.com/6abd/horus)**
+- **[G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** | Security research and experimental tooling |
+- **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | Tools and resources for agent-based workflows |
+- **[H4cker](https://github.com/The-Art-of-Hacking/h4cker)** | Collection of cybersecurity resources and references |
+- **[Tookie OSINT](https://github.com/Alfredredbird/tookie-osint)** | OSINT-focused tooling |
+- **[BBOT](https://github.com/blacklanternsecurity/bbot)** | OSINT automation and reconnaissance framework |
+- **[MailAccess](https://github.com/KatrielMoses/MailAccess)** | Email investigation tooling |
+- **[TorBot](https://github.com/DedSecInside/TorBot)** | Tor-related research and tooling |
+- **[Horus](https://github.com/6abd/horus)** | Security/reconnaissance utility |
 
 ---
 
 ## 🛠️ Installation & Usage
 
-**Tookie OSINT**
+## Tookie OSINT
 git clone https://github.com/alfredredbird/tookie-osint
 cd tookie-osint
 
@@ -38,7 +38,7 @@ python3 brib.py
 
 
 
-**BBOT**
+## BBOT
 -Stable release
 pipx install bbot
 
@@ -48,14 +48,14 @@ pipx install --pip-args '--pre' bbot
 
 
 
-**MAIL ACCESS**
+## MAIL ACCESS
 pip install mailaccess
 mailaccess investigate you@example.com
 
 
 
 
-**TORBOT**
+## TORBOT
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -66,7 +66,7 @@ python -m pip install -e .
 
 
 
-**HORUS**
+## HORUS
 git clone https://github.com/6abd/horus
 cd horus
 
