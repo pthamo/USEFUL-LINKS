@@ -23,7 +23,7 @@ A curated collection of useful websites, repositories, and tools.
 
 ---
 
-## 🛠️ Installation & Usage
+## 🛠️ Installation & Usage (Most shown are for Windows 11/10)
 
 ## GODMOD3
 ```
