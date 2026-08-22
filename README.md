@@ -26,15 +26,19 @@ A curated collection of useful websites, repositories, and tools.
 ## 🛠️ Installation & Usage
 
 ## GODMOD3
+```
 git clone https://github.com/elder-plinius/G0DM0D3.git
 cd G0DM0D3
-
+```
+```
 - Open in browser
 open index.html
 - Serve locally
 python3 -m http.server 8000
+```
 
 ## Agent-Reach
+
 Copy this to your AI Agent:
 
 ```
@@ -48,39 +52,56 @@ Copy this to your AI Agent:
 > Only use `--system` after the user explicitly approves system-level installs and configuration writes.
 
 ## Tookie OSINT
+```
 git clone https://github.com/alfredredbird/tookie-osint
 cd tookie-osint
-
+```
+```
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
-
+```
+```
 python3 brib.py
+```
 
 ## BBOT
+
 -Stable release
+```
 pipx install bbot
+```
 
 -Bleeding-edge / development version
+```
 pipx install --pip-args '--pre' bbot
+```
 
 ## MAIL ACCESS
+```
 pip install mailaccess
 mailaccess investigate you@example.com
+```
 
 ## TORBOT
+```
 python3 -m venv .venv
 source .venv/bin/activate
-
+```
+```
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m pip install -e .
+```
 
 ## HORUS
+```
 git clone https://github.com/6abd/horus
 cd horus
-
+```
+```
 pip install -r requirements.txt
 py horus.py
+```
 
 ## ADDING MORE AS THE DAYS GO ON..
