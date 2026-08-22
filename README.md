@@ -20,6 +20,6 @@ A curated collection of useful websites, repositories, and tools.
 - **[MailAccess](https://github.com/KatrielMoses/MailAccess)** | Email investigation tooling |
 - **[TorBot](https://github.com/DedSecInside/TorBot)** | Tor-related research and tooling |
 - **[Horus](https://github.com/6abd/horus)** | Security/reconnaissance utility |
-- **[XXX](XXX)** | XXX |
+- **[N/A](N/A)** | N/A |
 
 ---
